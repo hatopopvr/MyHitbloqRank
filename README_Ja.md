@@ -10,7 +10,7 @@
 ## how to use
 
 1. [notebook](https://colab.research.google.com/github/hatopopvr/MyHitbloqRank/blob/main/MyHitbloqRank_En.ipynb) を開き、以下の情報を入力します。
- - `player_id` : ScoreSaberのPlayerIDを入力してください。(Hitbloqじゃないので注意)
+ - `player_id` : ScoreSaberのPlayerIDを入力してください。(HitbloqのUserIDではないので注意)
  
 2. `ランタイム`タブを選択し、 `すべてのセルを実行`か `再起動してすべてのセルを実行` を選択し、実行してください。
 　Google DriveにHitbloqのID情報等を保存するため、認証を行ってください．
