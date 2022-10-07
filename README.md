@@ -1,2 +1,2 @@
-# MyHitBloqRank
-[BeatSaber][HitBloq] Visualizes your ranking on hitbloq's various map pools.
+# MyHitbloqRank
+[BeatSaber][Hitbloq] Visualizes your ranking on Hitbloq's various map pools.
