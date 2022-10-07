@@ -1,5 +1,5 @@
 # MyHitbloqRank
-The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyHitbloqRank/blob/main/MyHitbloqRank_En.ipynb) to displays  Visualizes your ranking on Hitbloq's various map pools.
+The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyHitbloqRank/blob/main/MyHitbloqRank_En.ipynb) to displays  Visualizes your ranking on [Hitbloq](https://hitbloq.com/)'s various map pools.
 
 ![MyHitbloqRank](images/images_001.jpg)
 
