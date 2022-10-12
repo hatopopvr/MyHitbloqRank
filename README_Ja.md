@@ -1,4 +1,7 @@
 # MyHitbloqRank
+
+[English](README.md)
+
 [Hitbloq](https://hitbloq.com/)の各map poolの自分のランキングデータを取得し、一覧で閲覧できる[Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyHitbloqRank/blob/main/MyHitbloqRank_En.ipynb)です. 
 
 ![MyHitbloqRank](images/images_001.jpg)
